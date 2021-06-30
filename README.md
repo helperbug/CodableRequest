@@ -9,3 +9,7 @@ See the included test for example codable structs and a couple of tests.
 MIT License
 
 Copyright (c) 2021 Ben Waidhofer
+
+![Structured Generic GET](Resources/GetDiagram.png)
+
+![Structured Generic POST](Resources/GetDiagram.png)
