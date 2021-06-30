@@ -1,3 +1,7 @@
+MIT License
+
+Copyright (c) 2021 Ben Waidhofer
+
 import Foundation
 
 public struct CodableRequestLibrary {
