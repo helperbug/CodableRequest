@@ -14,6 +14,6 @@ Awaitable REST access where the results are decoded into the type specified by t
 
 ![Structured Generic GET](Resources/GetDiagram.png)
 
-Caller passes in the codable object that is encoded into JSON and added set as the http request's body. Results are decoded into the type specified by the caller.
+Caller passes in the codable object that is encoded into binary JSON and set as the http request's body. Results are decoded into the type specified by the caller.
 
 ![Structured Generic POST](Resources/PostDiagram.png)
