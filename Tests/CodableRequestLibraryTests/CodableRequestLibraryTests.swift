@@ -1,6 +1,5 @@
-MIT License
-
-Copyright (c) 2021 Ben Waidhofer
+// MIT License
+// Copyright (c) 2021 Ben Waidhofer
 
 import Foundation
 import XCTest
